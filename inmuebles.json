@@ -1,0 +1,75 @@
+{
+    "inmuebles": [{
+            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "titulo": "Prueba1",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "titulo": "Prueba2",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "titulo": "Prueba3",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "titulo": "Prueba4",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "titulo": "Prueba5",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "titulo": "Prueba6",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "titulo": "Prueba7",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "titulo": "Prueba8",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "titulo": "Prueba9",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        }
+    ]
+}
