@@ -1,14 +1,14 @@
 {
     "inmuebles": [{
-            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
-            "titulo": "Prueba1",
+            "codigo": "CODIGO1",
+            "titulo": "CA",
             "direccion": "direccion",
             "area": 5.6,
             "precio": 10.5,
             "descripcion": "prueba2 descr"
         },
         {
-            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "codigo": "CODIGO2",
             "titulo": "Prueba2",
             "direccion": "direccion",
             "area": 5.6,
@@ -16,7 +16,7 @@
             "descripcion": "prueba2 descr"
         },
         {
-            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "codigo": "CODIGO3",
             "titulo": "Prueba3",
             "direccion": "direccion",
             "area": 5.6,
@@ -24,7 +24,7 @@
             "descripcion": "prueba2 descr"
         },
         {
-            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "codigo": "CODIGO4",
             "titulo": "Prueba4",
             "direccion": "direccion",
             "area": 5.6,
@@ -32,7 +32,7 @@
             "descripcion": "prueba2 descr"
         },
         {
-            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "codigo": "CODIGO5",
             "titulo": "Prueba5",
             "direccion": "direccion",
             "area": 5.6,
@@ -40,7 +40,7 @@
             "descripcion": "prueba2 descr"
         },
         {
-            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "codigo": "CODIGO6",
             "titulo": "Prueba6",
             "direccion": "direccion",
             "area": 5.6,
@@ -48,7 +48,7 @@
             "descripcion": "prueba2 descr"
         },
         {
-            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "codigo": "CODIGO7",
             "titulo": "Prueba7",
             "direccion": "direccion",
             "area": 5.6,
@@ -56,7 +56,7 @@
             "descripcion": "prueba2 descr"
         },
         {
-            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "codigo": "CODIGO8",
             "titulo": "Prueba8",
             "direccion": "direccion",
             "area": 5.6,
@@ -64,7 +64,151 @@
             "descripcion": "prueba2 descr"
         },
         {
-            "codigo": "K5ENHN9RRBWX1643QJD5V7KYB5XLCV",
+            "codigo": "CODIGO9",
+            "titulo": "Prueba9",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO1",
+            "titulo": "CA",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO2",
+            "titulo": "Prueba2",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO3",
+            "titulo": "Prueba3",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO4",
+            "titulo": "Prueba4",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO5",
+            "titulo": "Prueba5",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO6",
+            "titulo": "Prueba6",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO7",
+            "titulo": "Prueba7",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO8",
+            "titulo": "Prueba8",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO9",
+            "titulo": "Prueba9",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO1",
+            "titulo": "CA",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO2",
+            "titulo": "Prueba2",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO3",
+            "titulo": "Prueba3",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO4",
+            "titulo": "Prueba4",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO5",
+            "titulo": "Prueba5",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO6",
+            "titulo": "Prueba6",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO7",
+            "titulo": "Prueba7",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO8",
+            "titulo": "Prueba8",
+            "direccion": "direccion",
+            "area": 5.6,
+            "precio": 10.5,
+            "descripcion": "prueba2 descr"
+        },
+        {
+            "codigo": "CODIGO9",
             "titulo": "Prueba9",
             "direccion": "direccion",
             "area": 5.6,
